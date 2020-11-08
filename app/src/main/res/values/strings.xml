@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Deleting file may be harm your system</string>
+    <string name="comments">Комментарии</string>
+    <string name="posts">Посты</string>
+    <string name="edit_name">Введите имя</string>
+    <string name="edit_email">Введите почту</string>
+    <string name="edit_comments">Введите комментарии</string>
+    <string name="is_loading">Данные загружаются</string>
+    <string name="add_new_comments">Добавить новый комментарий</string>
+    <string name="add">Добавить</string>
+    <string name="add_is_successful">Коментарии добавлены</string>
+    <string name="cancel">Отменить</string>
+    <string name="comments_is_failure">Коментарии не добавлены</string>
+</resources>
